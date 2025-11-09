@@ -113,12 +113,12 @@ I write **The Data Nomad** for people building with data and AI who want signal,
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=mr-ouss&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats-nu-pied.vercel.app/api?username=mr-ouss&show_icons=true&theme=nord&commits_year=2025&rank_icon=github&custom_title=My GitHub Stats&hide=stars,prs,issues&show=prs_merged_percentage"
     alt="GitHub stats"
     height="160"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ouss&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats-nu-pied.vercel.app/api/top-langs/?username=mr-ouss&layout=compact&theme=nord"
     alt="Top languages"
     height="160"
   />
@@ -128,9 +128,9 @@ I write **The Data Nomad** for people building with data and AI who want signal,
 
 ## 🤝 Connect
 
-- 🌐 Personal site: <a href="https://www.kasseh.com">kasseh.com</a>  
-- 🧪 Building with the team at: <a href="https://www.syntaxia.com">syntaxia.com</a>  
-- 🐦 X: <a href="https://x.com/quentinkasseh">@quentinkasseh</a>  
-- 📰 Newsletter: <a href="https://www.syntaxia.com/the-data-nomad">The Data Nomad</a>  
+- <strong>Personal site</strong>: <a href="https://www.kasseh.com">kasseh.com</a>  
+- <strong>Building with the team at</strong>: <a href="https://www.syntaxia.com">syntaxia.com</a>  
+- <strong>X</strong>: <a href="https://x.com/quentinkasseh">@quentinkasseh</a>  
+- <strong>Newsletter</strong>: <a href="https://www.syntaxia.com/the-data-nomad">The Data Nomad</a>  
 
 If you’re working on data-heavy products, AI-ready platforms, or just trying to untangle a complex system, feel free to reach out.
