@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Quentin Kasseh 👋</h1>
+<h1 align="center">Hi, I'm Quentin Kasseh</h1>
 
 <p align="center">
   <strong>Founder @ Syntaxia • Engineer • Data & AI Architect</strong>
@@ -6,16 +6,16 @@
 
 <p align="center">
   <a href="https://www.syntaxia.com">
-    <img src="https://img.shields.io/badge/Syntaxia-111827?style=for-the-badge&logo=data:image/svg+xml;base64,AA&logoColor=white" />
+    <img src="https://img.shields.io/badge/Syntaxia-4F46E5?style=for-the-badge&logo=data:image/svg+xml;base64,AA&logoColor=white" />
   </a>
   <a href="https://www.kasseh.com">
-    <img src="https://img.shields.io/badge/Personal%20Site-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+    <img src="https://img.shields.io/badge/Personal%20Site-f9fafb?style=for-the-badge&logo=image/svg+xml;base64,AA&logoColor=white" />
   </a>
   <a href="https://x.com/quentinkasseh">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://www.syntaxia.com/the-data-nomad">
-    <img src="https://img.shields.io/badge/The%20Data%20Nomad-0F172A?style=for-the-badge&logo=rss&logoColor=white" />
+    <img src="https://img.shields.io/badge/The%20Data%20Nomad-0F766E?style=for-the-badge&logo=rss&logoColor=white" />
   </a>
 </p>
 
