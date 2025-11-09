@@ -111,9 +111,9 @@ I write **The Data Nomad** for people building with data and AI who want signal,
 
 ## 📊 A quick snapshot
 
-<p align="center">
+<p>
   <img
-    src="https://github-readme-stats-nu-pied.vercel.app/api?username=mr-ouss&show_icons=true&theme=nord&commits_year=2025&rank_icon=github&custom_title=My GitHub Stats&hide=stars,prs,issues&show=prs_merged_percentage"
+    src="https://github-readme-stats-nu-pied.vercel.app/api?username=mr-ouss&show_icons=true&theme=nord&commits_year=2025&rank_icon=github&custom_title=My GitHub Stats&hide=issues&show=prs_merged_percentage"
     alt="GitHub stats"
     height="160"
   />
