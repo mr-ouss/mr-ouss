@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.kasseh.com">
-    <img src="https://img.shields.io/badge/Personal%20Site-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
   <a href="https://www.syntaxia.com">
     <img src="https://img.shields.io/badge/Syntaxia-111827?style=for-the-badge&logo=data:image/svg+xml;base64,AA&logoColor=white" />
+  </a>
+  <a href="https://www.kasseh.com">
+    <img src="https://img.shields.io/badge/Personal%20Site-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="https://x.com/quentinkasseh">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
@@ -28,7 +28,7 @@ I'm an engineer and founder building **data- and AI-driven products** for people
 I like to:
 
 - design **simple, reliable architectures** instead of fragile patchworks
-- clean up messy domains and **make data usable**
+- build systems that combine data, AI, and human insight effectively
 - ship things that hold up under real-world load and business pressure
 - Focused on shipping production-ready systems that last
 
@@ -64,7 +64,7 @@ If you’ve ever felt like your systems are a pile of duct tape and meeting note
   </thead>
   <tbody>
     <tr>
-      <td><strong>Transferchat.ai</strong></td>
+      <td><a href="https://transferchat.ai"><strong>Transferchat.ai</strong></a></td>
       <td>
         A focused assistant for transferring knowledge across teams.  
         Turns scattered docs, chats, and tribal knowledge into direct answers for onboarding and daily work.
@@ -74,7 +74,7 @@ If you’ve ever felt like your systems are a pile of duct tape and meeting note
       </td>
     </tr>
     <tr>
-      <td><strong>ReadyData</strong></td>
+      <td><a href="https://readydata.syntaxia.com"><strong>ReadyData</strong></a></td>
       <td>
         Opinionated data layer that makes teams “data-ready”:  
         ingest → model → serve, without building a new data platform from scratch every time.
