@@ -24,9 +24,9 @@
 
 ---
 
-## 👨‍💻 What I do
+## What I do
 
-I'm an engineer and founder building **data- and AI-driven products** for people who care about real outcomes, not buzzwords.
+I'm a founder engineer building **data and AI driven products** for people who care about real outcomes, not buzzwords.
 
 I like to:
 
@@ -43,7 +43,7 @@ I like to:
 
 ---
 
-## 🧠 How I think
+## How I think
 
 A lot of my work is about reducing **accidental complexity**:
 
@@ -55,7 +55,7 @@ If you’ve ever felt like your systems are a pile of duct tape and meeting note
 
 ---
 
-## 🚀 Current products & projects
+## Current products & projects
 
 <table>
   <thead>
@@ -112,7 +112,7 @@ I write **The Data Nomad** for people building with data and AI who want signal,
 
 ---
 
-## 📊 A quick snapshot
+## A quick snapshot
 
 <p>
   <img
@@ -129,7 +129,7 @@ I write **The Data Nomad** for people building with data and AI who want signal,
 
 ---
 
-## 🤝 Connect
+## Connect
 
 - <strong>Personal site</strong>: <a href="https://www.kasseh.com">kasseh.com</a>  
 - <strong>Building with the team at</strong>: <a href="https://www.syntaxia.com">syntaxia.com</a>  
