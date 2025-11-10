@@ -8,6 +8,9 @@
   <a href="https://www.syntaxia.com">
     <img src="https://img.shields.io/badge/Syntaxia-4F46E5?style=for-the-badge&logo=data:image/svg+xml;base64,AA&logoColor=white" />
   </a>
+  <a href="https://github.com/Syntaxia">
+    <img src="https://img.shields.io/badge/Syntaxia_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <a href="https://www.kasseh.com">
     <img src="https://img.shields.io/badge/Personal%20Site-f3a615?style=for-the-badge&logo=image/svg+xml;base64,AA&logoColor=white" />
   </a>
