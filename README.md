@@ -12,13 +12,13 @@
     <img src="https://img.shields.io/badge/Syntaxia_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.kasseh.com">
-    <img src="https://img.shields.io/badge/Personal%20Site-f3a615?style=for-the-badge&logo=image/svg+xml;base64,AA&logoColor=white" />
+    <img src="https://img.shields.io/badge/kasseh.com-f3a615?style=for-the-badge&logo=image/svg+xml;base64,AA&logoColor=white" />
   </a>
   <a href="https://x.com/quentinkasseh">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://www.syntaxia.com/the-data-nomad">
-    <img src="https://img.shields.io/badge/The%20Data%20Nomad-0F766E?style=for-the-badge&logo=rss&logoColor=white" />
+  <a href="https://www.kasseh.com/against-entropy">
+    <img src="https://img.shields.io/badge/Against%20Entropy-0F766E?style=for-the-badge&logo=rss&logoColor=white" />
   </a>
 </p>
 
@@ -26,14 +26,16 @@
 
 ## What I do
 
-I'm a founder engineer building **data and AI driven products** for people who care about real outcomes, not buzzwords.
+Palantir built the ontology-first operating system for defense and government. I'm building the same thing for everyone else.
+
+**Syntaxia** brings data-centric architecture to commercial enterprises: ontologies, knowledge graphs, semantic drift detection. The problems Palantir solved for three-letter agencies exist in every company with more than a few systems. Different data, same entropy.
 
 I like to:
 
 - design **simple, reliable architectures** instead of fragile patchworks
 - build systems that combine data, AI, and human insight effectively
 - ship things that hold up under real-world load and business pressure
-- Focused on shipping production-ready systems that last
+- stay focused on production-ready systems that last
 
 **Main stack**
 
@@ -49,9 +51,9 @@ A lot of my work is about reducing **accidental complexity**:
 
 - model the domain clearly (people, entities, relationships, constraints)  
 - keep the **semantic layer** explicit instead of hiding logic in dashboards  
-- combine LLMs with solid data foundations instead of trusting “magic”  
+- combine LLMs with solid data foundations instead of trusting "magic"  
 
-If you’ve ever felt like your systems are a pile of duct tape and meeting notes, that’s the kind of chaos I enjoy cleaning up.
+If you've ever felt like your systems are a pile of duct tape and meeting notes, that's the kind of chaos I enjoy cleaning up.
 
 ---
 
@@ -67,6 +69,16 @@ If you’ve ever felt like your systems are a pile of duct tape and meeting note
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://www.syntaxia.com"><strong>Syntaxia</strong></a></td>
+      <td>
+        Ontology-driven data architecture for commercial enterprises.  
+        Semantic drift detection, knowledge graphs, and the tooling Palantir built for defense, now available to everyone else.
+      </td>
+      <td>
+        Ontologies · knowledge graphs · Snowflake · data-centric architecture
+      </td>
+    </tr>
+    <tr>
       <td><a href="https://transferchat.ai"><strong>Transferchat.ai</strong></a></td>
       <td>
         A focused assistant for transferring knowledge across teams.  
@@ -79,7 +91,7 @@ If you’ve ever felt like your systems are a pile of duct tape and meeting note
     <tr>
       <td><a href="https://readydata.syntaxia.com"><strong>ReadyData</strong></a></td>
       <td>
-        Opinionated data layer that makes teams “data-ready”:  
+        Opinionated data layer that makes teams "data-ready":  
         ingest → model → serve, without building a new data platform from scratch every time.
       </td>
       <td>
@@ -87,12 +99,12 @@ If you’ve ever felt like your systems are a pile of duct tape and meeting note
       </td>
     </tr>
     <tr>
-      <td><a href="https://www.syntaxia.com/the-data-nomad"><strong>The Data Nomad</strong></a></td>
+      <td><a href="https://www.kasseh.com/against-entropy"><strong>Against Entropy</strong></a></td>
       <td>
-        Newsletter on practical data and AI: architectures, trade-offs, and lessons from client work around the world.
+        Newsletter on semantic drift, knowledge graphs, and the data problems vendors won't discuss.
       </td>
       <td>
-        Writing · data strategy · systems thinking
+        Writing · data architecture · ontologies
       </td>
     </tr>
   </tbody>
@@ -100,15 +112,22 @@ If you’ve ever felt like your systems are a pile of duct tape and meeting note
 
 ---
 
-## ✍️ The Data Nomad
+## ✍️ Against Entropy
 
-I write **The Data Nomad** for people building with data and AI who want signal, not fluff:
+I write **Against Entropy** for engineers and founders building data systems who want honest analysis over vendor talking points.
 
-- real architectures and patterns from client work  
-- mistakes, edge cases, and what actually survived production  
-- thoughts on how tech, business, and human behavior interact  
+What I cover:
 
-👉 Read or subscribe here: **https://www.syntaxia.com/the-data-nomad**
+- semantic drift: when your data stops meaning what you think it means
+- knowledge graphs, ontologies, and data-centric architecture
+- Snowflake optimization and cloud cost reduction
+- the gaps in the modern data stack that nobody talks about
+
+Everything I publish is written by hand. No AI generation. Writing is how I think, not just how I communicate. When I sit down to write an essay, I'm working through the problem, not transcribing a solution I already have. That process produces insights I wouldn't reach otherwise.
+
+I also believe readers deserve to know what they're getting. If you're reading my work, you're reading my experience, my mistakes, my actual point of view. Not a language model's interpolation of the internet.
+
+👉 Read or subscribe: **[kasseh.com](https://www.kasseh.com/signup/)**
 
 ---
 
@@ -131,9 +150,9 @@ I write **The Data Nomad** for people building with data and AI who want signal,
 
 ## Connect
 
-- <strong>Personal site</strong>: <a href="https://www.kasseh.com">kasseh.com</a>  
-- <strong>Building with the team at</strong>: <a href="https://www.syntaxia.com">syntaxia.com</a>  
-- <strong>X</strong>: <a href="https://x.com/quentinkasseh">@quentinkasseh</a>  
-- <strong>Newsletter</strong>: <a href="https://www.syntaxia.com/the-data-nomad">The Data Nomad</a>  
+- **Personal site & blog**: [kasseh.com](https://www.kasseh.com)  
+- **Building with the team at**: [syntaxia.com](https://www.syntaxia.com)  
+- **X**: [@quentinkasseh](https://x.com/quentinkasseh)  
+- **Newsletter**: [Against Entropy](https://www.kasseh.com/signup/)  
 
-If you’re working on data-heavy products, AI-ready platforms, or just trying to untangle a complex system, feel free to reach out.
+If you're working on data-heavy products, AI-ready platforms, or just trying to untangle a complex system, feel free to reach out.
